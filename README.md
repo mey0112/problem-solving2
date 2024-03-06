@@ -11,7 +11,7 @@
   6. 예측결과 시각화
   7. 2018년도 실제 연봉과 비교
 - 분석 결과
-  1. ![선형회귀 야구선수연봉](https://github.com/mey0112/problem-solving2/assets/52438640/987a7fc4-58c9-491e-8524-807b9ef40753)
+  ![선형회귀 야구선수연봉](https://github.com/mey0112/problem-solving2/assets/52438640/987a7fc4-58c9-491e-8524-807b9ef40753)
 
 - 개발도구 : Jypyter Notebook
 - 개발언어 및 프레임워크 : Python / pandas,numpy, sklearn, statsmodels
